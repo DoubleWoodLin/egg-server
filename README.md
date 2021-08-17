@@ -1,7 +1,7 @@
 # egg-backend
 
-
-
+## Description
+Atom 记账本的后端，下载后请在config/config.default.js中配置数据库
 ## QuickStart
 
 <!-- add docs here for user -->
